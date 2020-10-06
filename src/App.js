@@ -7,6 +7,8 @@ import ReactDemo from './components/ReactDemo'
 import logo from './logo.svg';
 import './App.css';
 
+import './promiseAsyncAwait'
+
 const listPeople = [
     {
       name: 'Furqon',
